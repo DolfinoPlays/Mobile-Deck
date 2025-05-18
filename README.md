@@ -1,6 +1,4 @@
-# MobileDeck
-
-![MobileDeck Logo](assets/MDDark.png)
+# ![MobileDeck Logo](assets/MDDark.png)
 
 ## What is MobileDeck?
 MobileDeck is a Python script that allows you to turn your mobile device into a fully customizable macro pad similar to a Stream Deck.
