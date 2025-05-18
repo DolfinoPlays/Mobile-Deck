@@ -21,7 +21,7 @@ MobileDeck is a Python script that allows you to turn your mobile device into a 
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/yourusername/mobiledeck/releases) page
+1. Go to the [Releases](https://github.com/DolfinoPlays/Mobile-Deck/releases) page
 2. Download the latest `MobileDeck.zip` file
 3. Extract the zip file to a location of your choice
 4. Run the `MobileDeck.exe` file
