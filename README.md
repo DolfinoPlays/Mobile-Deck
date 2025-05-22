@@ -51,7 +51,7 @@ MobileDeck is a Python script that allows you to turn your mobile device into a 
 ### Video Tutorial
 
 For a visual guide on setting up and using MobileDeck, watch our tutorial:
-[MobileDeck Tutorial Video](https://www.youtube.com/watch?v=your_video_id)
+[MobileDeck Tutorial Video](https://youtu.be/02BznyBX8aw)
 
 ### Creating and Managing Buttons
 
